@@ -1,0 +1,15 @@
+C:\Users\gulsen.ruya\source\repos\DesignPatterns\NortwindSingleton\bin\Debug\NortwindSingleton.exe.config
+C:\Users\gulsen.ruya\source\repos\DesignPatterns\NortwindSingleton\bin\Debug\NortwindSingleton.exe
+C:\Users\gulsen.ruya\source\repos\DesignPatterns\NortwindSingleton\bin\Debug\NortwindSingleton.pdb
+C:\Users\gulsen.ruya\source\repos\DesignPatterns\NortwindSingleton\bin\Debug\EntityFramework.dll
+C:\Users\gulsen.ruya\source\repos\DesignPatterns\NortwindSingleton\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gulsen.ruya\source\repos\DesignPatterns\NortwindSingleton\bin\Debug\EntityFramework.xml
+C:\Users\gulsen.ruya\source\repos\DesignPatterns\NortwindSingleton\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gulsen.ruya\source\repos\DesignPatterns\NortwindSingleton\obj\Debug\NortwindSingleton.csprojAssemblyReference.cache
+C:\Users\gulsen.ruya\source\repos\DesignPatterns\NortwindSingleton\obj\Debug\NortwindSingleton.Form1.resources
+C:\Users\gulsen.ruya\source\repos\DesignPatterns\NortwindSingleton\obj\Debug\NortwindSingleton.Properties.Resources.resources
+C:\Users\gulsen.ruya\source\repos\DesignPatterns\NortwindSingleton\obj\Debug\NortwindSingleton.csproj.GenerateResource.cache
+C:\Users\gulsen.ruya\source\repos\DesignPatterns\NortwindSingleton\obj\Debug\NortwindSingleton.csproj.CoreCompileInputs.cache
+C:\Users\gulsen.ruya\source\repos\DesignPatterns\NortwindSingleton\obj\Debug\NortwindSingleton.csproj.CopyComplete
+C:\Users\gulsen.ruya\source\repos\DesignPatterns\NortwindSingleton\obj\Debug\NortwindSingleton.exe
+C:\Users\gulsen.ruya\source\repos\DesignPatterns\NortwindSingleton\obj\Debug\NortwindSingleton.pdb
