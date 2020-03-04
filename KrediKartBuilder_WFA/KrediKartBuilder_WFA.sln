@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrediKartBuilder_WFA", "KrediKartBuilder_WFA\KrediKartBuilder_WFA.csproj", "{203F2653-3685-404F-8A4C-8158B1E8CFFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{203F2653-3685-404F-8A4C-8158B1E8CFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203F2653-3685-404F-8A4C-8158B1E8CFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203F2653-3685-404F-8A4C-8158B1E8CFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203F2653-3685-404F-8A4C-8158B1E8CFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2E000FA-14C5-4E53-A1AA-3D8B6C9C516C}
+	EndGlobalSection
+EndGlobal

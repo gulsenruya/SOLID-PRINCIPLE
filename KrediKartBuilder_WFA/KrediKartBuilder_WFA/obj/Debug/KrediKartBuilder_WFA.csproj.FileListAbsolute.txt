@@ -1,0 +1,10 @@
+C:\Users\gulsen.ruya\source\repos\KrediKartBuilder_WFA\KrediKartBuilder_WFA\obj\Debug\KrediKartBuilder_WFA.csprojAssemblyReference.cache
+C:\Users\gulsen.ruya\source\repos\KrediKartBuilder_WFA\KrediKartBuilder_WFA\obj\Debug\KrediKartBuilder_WFA.Form1.resources
+C:\Users\gulsen.ruya\source\repos\KrediKartBuilder_WFA\KrediKartBuilder_WFA\obj\Debug\KrediKartBuilder_WFA.Properties.Resources.resources
+C:\Users\gulsen.ruya\source\repos\KrediKartBuilder_WFA\KrediKartBuilder_WFA\obj\Debug\KrediKartBuilder_WFA.csproj.GenerateResource.cache
+C:\Users\gulsen.ruya\source\repos\KrediKartBuilder_WFA\KrediKartBuilder_WFA\obj\Debug\KrediKartBuilder_WFA.csproj.CoreCompileInputs.cache
+C:\Users\gulsen.ruya\source\repos\KrediKartBuilder_WFA\KrediKartBuilder_WFA\bin\Debug\KrediKartBuilder_WFA.exe.config
+C:\Users\gulsen.ruya\source\repos\KrediKartBuilder_WFA\KrediKartBuilder_WFA\bin\Debug\KrediKartBuilder_WFA.exe
+C:\Users\gulsen.ruya\source\repos\KrediKartBuilder_WFA\KrediKartBuilder_WFA\bin\Debug\KrediKartBuilder_WFA.pdb
+C:\Users\gulsen.ruya\source\repos\KrediKartBuilder_WFA\KrediKartBuilder_WFA\obj\Debug\KrediKartBuilder_WFA.exe
+C:\Users\gulsen.ruya\source\repos\KrediKartBuilder_WFA\KrediKartBuilder_WFA\obj\Debug\KrediKartBuilder_WFA.pdb
